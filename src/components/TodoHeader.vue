@@ -1,25 +1,12 @@
 <template>
     <header>
-        <h1>ToDO it!</h1>
+        <h1>TODO it!</h1>
     </header>
 </template>
 
 <script>
 export default {
 
-    data() {
-        return {
-            
-        };
-    },
-
-    mounted() {
-        
-    },
-
-    methods: {
-        
-    },
 };
 </script>
 
